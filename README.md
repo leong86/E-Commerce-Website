@@ -2,6 +2,7 @@
 
 
 Code is from https://www.codewithantonio.com/projects/ecommerce and https://github.com/adrianhajdin/ecommerce_sanity_stripe.
+
 Key Features:
 
 ### Prerequisites
