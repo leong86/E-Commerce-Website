@@ -1,4 +1,4 @@
-# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
+# Full Stack E-Commerce + Dashboard 
 
 
 Code is from https://www.codewithantonio.com/projects/ecommerce and https://github.com/adrianhajdin/ecommerce_sanity_stripe.
